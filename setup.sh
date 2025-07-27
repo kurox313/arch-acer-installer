@@ -2,7 +2,7 @@
 set -e
 
 # Set up variables
-DISK="/dev/mmcblk1"
+DISK="/dev/mmcblk2"
 HOSTNAME="arch-linux"
 USERNAME="kuro"
 PASSWORD="1111"
